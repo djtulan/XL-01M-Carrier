@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "usb_c_power_only")(type "KiCad")(uri "${KIPRJMOD}/usb_c_power_only.kicad_sym")(options "")(descr ""))
+)
