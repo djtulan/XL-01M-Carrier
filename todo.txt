@@ -1,0 +1,4 @@
+check dimonsions of all parts
+checkk inductor size
+finish PCB
+order PCB
