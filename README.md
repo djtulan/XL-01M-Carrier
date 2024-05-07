@@ -8,9 +8,10 @@ It is still a work in progress. First PCBs are ordered, but not testet yet.
 
 ![Picture](pics/XL-01M.jpg)
 
-# Dokuments
-| Dokument                                                   |Descripton                |
-| -----------------------------------------------------------|--------------------------|
-| [found docu](/documents/24GNRF24L01XL01MV1.80132905.pdf)   |Found Doku                |
-| [audio connector](/documents/audio_3.5mm.png)              |3.5mm audio connector used|
-
+# Documents
+| Document                                                   |Descripton                                  |
+| -----------------------------------------------------------|--------------------------------------------|
+| [found docu](/documents/24GNRF24L01XL01MV1.80132905.pdf)   |Found Doku                                  |
+| [audio connector](/documents/audio_3.5mm.png)              |3.5mm audio connector used on carrier       |
+| [case](/documents/case.png)                                |aluminium case used                         |
+| [usb connector](/documents/usb-c.png)                      |USB-C connector for power supply            |
