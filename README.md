@@ -4,6 +4,9 @@ It is still a work in progress. First PCBs are ordered, but not testet yet.
 
 ![Picture](pics/carrier.png)
 
+![Picture](pics/pcb.jpg)
+
+
 # Picture of the XL-01M-T and XL-01M-R Modules
 
 ![Picture](pics/XL-01M.jpg)
